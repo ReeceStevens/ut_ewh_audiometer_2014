@@ -1,0 +1,70 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Audiometria Fácil</string>
+    <string name="action_settings">Configurações</string>
+    <string name="main_menu_greeting">Audiometria Fácil</string>
+    <string name="main_menu_greeting_body">Teste Simples e Rápido de Audição</string>
+    <string name="button_start">Começar Teste</string>
+    <string name="button_acknowledgements">Reconhecimentos</string>
+    <string name="title_activity_pre_test_information">Antes de Começarmos</string>
+    <string name="pretest_title">Instruções</string>
+    <string name="pretest_info_body">Antes de realizar o teste de audiometria, o fone de ouvido precisa ser calibrado. Confirme que o fone de ouvido está bem encaixado na entrada do dispositivo. Toque no botão abaixo quando você estiver pronto para realizar as instruções de calibração. Uma vez que os fones de ouvido estiverem calibrados, você pode começar o teste audiométrico.</string>
+    <string name="pretest_button">Instruções de Calibração</string>
+    <string name="title_activity_test_proctoring">Toque quando ouvir um bip</string>
+    <string name="hello_world">Teste em curso!</string>
+    <string name="title_activity_test_proctoring_revised">O teste iniciou!</string>
+    <string name="title_activity_export_data">Exportar dados</string>
+    <string name="button_export">Resultados do teste</string>
+    <string name="title_activity_test_complete">Teste completo!</string>
+    <string name="email_hint">Email do destinatário</string>
+    <string name="export_test_title">Exportar resultados do teste</string>
+    <string name="test_proctoring_information">Este teste de audiometria é um procedimento simples pensado para avaliar suas capacidades auditivas. Uma vez que o teste começar, você ouvirá bips de vários tons e volumes. Toda vez que você ouvir um bip, simplesmente toque na tela. É isso! Toque o botão abaixo quando estiver pronto para começar.</string>
+
+    <color name="orange">#FF8000</color>
+    <color name="primary">#FF8000</color>
+    <color name="primary_dark">#ffc96500</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="dark_orange">#bb4000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#888888</color>
+    <color name="green">#adce49</color>
+    <color name="background_grey">#424242</color>
+
+    <string name="title_activity_pre__calibration">Pré Calibração</string>
+    <string name="button_calibration">Calibração</string>
+    <string name="pre_calibration_title">Calibração do Audiômetro</string>
+    <string name="pre_calibration_info_body">Para calibrar seu fone de ouvido, coloque-os a mais ou menos um polegar de distância do microfone do seu dispositivo. Para melhores resultados, faça esta calibração numa sala silenciosa.</string>
+    <string name="button_begin_calibration">Começar calibração</string>
+    <string name="title_activity_calibration">Calibração</string>
+    <string name="calibration_in_progress">Calibrando...</string>
+    <string name="test_complete_title">Teste completo!</string>
+    <string name="test_complete_body">Você deseja manter seus resultados?</string>
+    <string name="test_complete_button_yes">Sim</string>
+    <string name="test_complete_button_no">Não</string>
+    <string name="export_body">Por favor insira o email para o qual você deseja enviar os resultados.</string>
+    <string name="title_activity_export_complete">Exportação completa</string>
+    <string name="export_data_complete_title">Exportação de dados completa!</string>
+    <string name="export_data_complete_button">Voltar para o início</string>
+    <string name="title_activity_calibration_complete">Calibração completa</string>
+    <string name="calibration_complete_title">Calibração completa!</string>
+    <string name="calibration_complete_body">Agora que a calibração está completa, você pode fazer o teste de audiometria. Este teste de audiometria é um procedimento simples pensado para avaliar suas capacidades auditivas. Uma vez que o teste começar, você ouvirá bips de vários tons e volumes. Toda vez que você ouvir um bip, simplesmente toque na tela. É isso! Toque o botão abaixo quando estiver pronto para começar.</string>
+    <string name="calibration_complete_button">Comneçar teste</string>
+    <string name="export_data_complete_caveat">Se você não consegue encontrar os resultados do teste no seu email, olhe a lixeira ou a pasta de spam.</string>
+    <string name="title_activity_acknowledgements">Reconhecimentos</string>
+    <string name="acknowledgements_title">Reconhecimentos</string>
+    <string name="developer">Desenvolvedor: Reece Stevens</string>
+    <string name="special_thanks">Agradecimento especial à: Pato Lankenau, Davin Siu, e James Yao</string>
+    <string name="reason">Desenvolvido para o Texas Engineering World Health como submissão para a 2014 EWH Design Competition.</string>
+    <string name="final_notes">Dúvidas sobre o app? Email reecestevens@utexas.edu.</string>
+    <string name="title_activity_export_error">Erro ao exportar</string>
+    <string name="export_error_title">Oops!</string>
+    <string name="export_error_body">Parece que a exportação chegou a um problema. Por favor verifique sua conexão com a internet e tente de novo. Você pode acessar seus resultados a qualquer hora na tela de Resultados do teste e pelo seu email!</string>
+    <string name="export_error_button">Voltar para o Menu Principal</string>
+    <string name="title_activity_test_lookup">Resultados do teste</string>
+    <string name="title_activity_test_data">Dados do teste</string>
+    <string name="email_option">Enviar resultados por email</string>
+
+</resources>
